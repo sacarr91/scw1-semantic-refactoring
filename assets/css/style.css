@@ -36,8 +36,7 @@ body {
     }
 }
 
-/* removed "header" from class label */
-.header-seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
